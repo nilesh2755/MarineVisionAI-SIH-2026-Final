@@ -8,7 +8,7 @@
 
 An AI-powered **Side-Scan Sonar (SSS) image analysis platform** for detecting underwater marine debris and other man-made anomalies, distinguishing them from natural seabed formations, estimating confidence, geolocating detections, and generating actionable reports.
 
-Live Deployed App: https://marinevisionai-sih-2026-final-production-5009.up.railway.app
+#### Live App: https://marinevisionai-sih-2026-final-production-5009.up.railway.app
 
 ---
 
